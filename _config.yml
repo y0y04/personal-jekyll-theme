@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://le4ker.github.io"
+url: "https://y0y04.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
@@ -28,10 +28,10 @@ force-https: True
 # HTML Head #
 #############
 
-lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+lang: "es"
+author: "Jorge Rod"
+title: "{ COSITAS }"
+description: "A ver cómo sale todo esto..."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
@@ -56,8 +56,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Organización."
+  - text: "Ganas."
+  - text: "alcohol xd"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -201,10 +202,10 @@ keybase-in-footer: True
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
-  Contact: 'contact'
+  Qué webos es todo esto??: 'about'
+  Súper blog :D: 'latest-post'
+  Horarios de peñita: 'timeline'
+  Contacto mmm: 'contact'
 
 # Exclusion list from the generated _site
 
